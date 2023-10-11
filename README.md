@@ -1,5 +1,5 @@
 # snowflake-study-guide
-Snowflake Sno Core Study Guide
+Snowflake Snowpro Core Exam Study Guide
 
 ## Dependencies
 Anki
